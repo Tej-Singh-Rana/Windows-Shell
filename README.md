@@ -7,3 +7,8 @@
 - Script can write in notepad in windows OS, don't need any IDE based editor.
 - VBscript is used only by Internet Explorer browser. Other browsers such as Chrome, Firefox don't support VBScript. If you want to work on   it then make changes manually in it.
 - While saving code make sure extention is `.vbs` .
+
+### Windows Command Line
+
+- [Windows-CLI](https://www.computerhope.com/overview.htm)
+
